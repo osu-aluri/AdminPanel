@@ -1,1 +1,1 @@
-"#AdminPanel for minase.tk" 
+# AdminPanel for minase.tk
