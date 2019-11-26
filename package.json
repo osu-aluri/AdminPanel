@@ -1,0 +1,27 @@
+{
+  "name": "admin_panel",
+  "version": "0.0.1",
+  "description": "Admin Panel of Minase.tk",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-minase/AdminPanel.git"
+  },
+  "author": "kotypey",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/osu-minase/AdminPanel/issues"
+  },
+  "homepage": "https://github.com/osu-minase/AdminPanel#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "md5": "^2.2.1",
+    "mysql2": "^2.0.1",
+    "redis": "^2.8.0"
+  }
+}
