@@ -6,8 +6,8 @@ module.exports = {
     },
     mysql: {
         host: 'localhost',
-        user: 'ripple',
-        password: 'ripple',
+        user: 'root',
+        password: '',
         database: 'ripple'
     },
     redis: {

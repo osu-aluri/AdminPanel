@@ -20,6 +20,8 @@
     "bcryptjs": "^2.4.3",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
+    "express-sessions": "^1.0.6",
+    "ioredis": "^4.14.1",
     "md5": "^2.2.1",
     "mysql2": "^2.0.1",
     "redis": "^2.8.0"
